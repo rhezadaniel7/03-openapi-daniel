@@ -26,4 +26,4 @@ Dokumentasi OpenAPI otomatis tersedia di `/docs` dan `/openapi.json`.
     export DATABASE_URL="postgresql://...neon..."
     pip install -r requirements.txt
     uvicorn main:app --reload
-    # buka http://127.0.0.1:8000/docs
+    # buka https://03-openapi-daniel-six.vercel.app/docs
